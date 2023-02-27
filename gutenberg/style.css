@@ -1,0 +1,74 @@
+BODY { 
+    background: url("https://img.freepik.com/premium-photo/old-vintage-paper-texture-background_105034-1040.jpg?w=740"),rgb(201, 192, 192);
+    padding:10%;
+    font: serif;
+    background-size: 100%;
+    color: #723d08;
+    font-size: large;
+    text-align:justify;
+    margin: 20%;}
+
+img { 
+    border: 20px solid #b16208;
+    color:blueviolet; 
+    background-color: #723d08;
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid #723d08;
+    padding-inline: 20%;
+    text-align: left;
+    text-decoration-color: black;
+    text-emphasis-color: blue;
+    vertical-align: middle;
+}
+td{
+    width: 25%;
+    font: Seriff;
+    text-align: left;
+    text-decoration-color: black;
+    text-emphasis-color: blue;
+    vertical-align: middle;
+
+}
+
+h1,h2,h3,h4,h5,h6{ 
+    color: #583924;
+    text-align: center;
+    text-decoration: underline;
+    font: serif;
+    font-size: xx-large;
+    font-weight: bold;
+    margin-left: 15%;
+    margin-right: 15%;    
+}
+                 
+
+P::first-letter {
+    font-size: 200%;    
+    color: #b16208
+}
+
+P{
+    font: Seriff;    
+    color: #723d08
+}
+
+
+
+figcaption {
+    font: Seriff;  
+    font-style: italic;
+    color:black;
+    text-align: center; 
+
+}
+
+
+ 
+
+a:link { color: #e47f0c;}
+a:visited { color: #864d18;}
+a:hover { color: #0000f7;}
+a:active { color: #ff7b00;} 
