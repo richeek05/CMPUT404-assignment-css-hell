@@ -34,4 +34,4 @@ Reference:
 * https://www.w3schools.com/css/css_background.asp
 * https://www.bitdegree.org/learn/css-navigation-bar/#:~:text=Navbar%20in%20CSS%20refers%20to%20a%20group%20of,as%20the%20main%20navigation%20links%20of%20web%20sites.
 * Image(Profile): https://pixabay.com/photos/smile-work-business-success-5047506/
-* Bg Image: pinterest: https://in.pinterest.com/
+* Bg Image:  https://in.pinterest.com/
