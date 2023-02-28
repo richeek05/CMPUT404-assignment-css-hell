@@ -22,3 +22,8 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 Code is licensed under the Apache 2.0 license.
 
 
+Changes made to GutenBerf files
+===============================
+* Image address was updated
+* Image Caption was added
+* Linked the .html file to the style.css file (link rel="stylesheet" href="style.css")
